@@ -1,0 +1,105 @@
+{
+  "events": [
+    {
+      "name": "Vasco Rossi",
+      "location": "verona",
+      "date": "Nov 11",
+      "timeIn": "20",
+      "timeOut": "23",
+      "tickets": 0,
+      "price": "150€",
+      "ticketsSold": 200
+    },
+    {
+      "name": "Guns & roses",
+      "location": "berlin",
+      "date": "Gen 20",
+      "timeIn": "20:00",
+      "timeOut": "23:00",
+      "tickets": 287,
+      "price": "190€",
+      "ticketsSold": 13
+    },
+    {
+      "name": "Cindy Loper",
+      "location": "Milan",
+      "date": "Sep 13",
+      "timeIn": "19:00",
+      "timeOut": "23:00",
+      "tickets": 340,
+      "price": "56€",
+      "ticketsSold": 60
+    },
+    {
+      "name": "Magnus Uggla",
+      "location": "Götebr",
+      "date": "Dic 16",
+      "timeIn": "23:00",
+      "timeOut": "2:00",
+      "tickets": 157,
+      "price": "1200sek",
+      "ticketsSold": 43
+    },
+    {
+      "name": "Brian Adams at Ullevi",
+      "location": "Göteborg",
+      "date": "Mar 21",
+      "tickets": 142,
+      "price": "10",
+      "ticketsSold": 58
+    },
+    {
+      "name": "Queen",
+      "location": "Göteborg",
+      "date": "Jun 21",
+      "tickets": 298,
+      "price": "10",
+      "ticketsSold": 2
+    },
+    {
+      "name": "REM",
+      "location": "MUNICH",
+      "date": "30 AGO",
+      "timeIn": "20:30",
+      "timeOut": "23:30",
+      "tickets": 298,
+      "price": "110€",
+      "ticketsSold": 2
+    },
+    {
+      "name": "MANGO",
+      "location": "VERONA",
+      "date": "21 MAR",
+      "timeIn": "21:00",
+      "timeOut": "23:00",
+      "tickets": 500,
+      "price": "100€",
+      "ticketsSold": 0
+    }
+  ],
+  "stuff": [
+    {
+      "username": "michele",
+      "password": "$2b$10$PU.qmCcoKWlOVsnxTgE0p.efXNYDaug6MarxsDkjrbWUPZ2TqEwRm",
+      "uuid": "ff2aa608-8248-44b7-85ff-4ebcaa15c293",
+      "role": "admin"
+    },
+    {
+      "username": "marco",
+      "password": "$2b$10$GK8bBFlHREaQo1SxdlaauOwsxLZiinIbrONZDc/RU2TjAUz2plpAe",
+      "uuid": "b27e9f07-19b3-4d7e-9d49-64c0b2d87632",
+      "role": "user"
+    }
+  ],
+  "ticket": [
+    {
+      "eventName": "Brian Adams at Ullevi",
+      "ticketNumber": "skvpqa"
+    },
+    {
+      "eventName": "Guns & roses",
+      "ticketNumber": "mdcqlk"
+    }
+  ],
+  "tickets": []
+}
